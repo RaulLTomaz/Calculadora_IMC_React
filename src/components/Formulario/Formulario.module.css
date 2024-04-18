@@ -1,0 +1,14 @@
+.altura input, .peso input {
+    width: 100%;
+}
+
+.altura, .peso {
+    padding: 16px 0;
+}
+
+.form {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10%;
+    margin: 40px 0;
+}
